@@ -1,0 +1,8 @@
+февр. 23, 2023 1:19:01 PM org.example.HW02.hw2_Task02 main
+INFO: [3, 11, 14, 16, 7]
+февр. 23, 2023 1:19:01 PM org.example.HW02.hw2_Task02 main
+INFO: [3, 11, 14, 7, 16]
+февр. 23, 2023 1:19:01 PM org.example.HW02.hw2_Task02 main
+INFO: [3, 11, 7, 14, 16]
+февр. 23, 2023 1:19:01 PM org.example.HW02.hw2_Task02 main
+INFO: [3, 7, 11, 14, 16]
