@@ -10,7 +10,8 @@ public class hw2_Task02 {
 
     public static void main(String[] args) throws IOException {
         Logger logger = Logger.getLogger(hw2_Task02.class.getName());
-        FileHandler fh = new FileHandler("C:\\Users\\tooly\\Desktop\\GB\\Java\\Java_HW\\src\\main\\java\\org\\example\\HW02\\log.txt");
+        FileHandler fh = new FileHandler(
+                "C:\\Users\\tooly\\Desktop\\GB\\Java\\Java_HW\\src\\main\\java\\org\\example\\HW02\\log.txt");
         logger.addHandler(fh);
         SimpleFormatter sFormat = new SimpleFormatter();
         fh.setFormatter(sFormat);

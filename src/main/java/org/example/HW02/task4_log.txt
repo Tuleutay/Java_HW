@@ -1,0 +1,3 @@
+февр. 24, 2023 11:20:59 PM org.example.HW02.hw2_Task04 main
+INFO: 3 + 6 = 9
+
