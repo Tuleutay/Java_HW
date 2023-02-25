@@ -1,25 +1,5 @@
-package org.example;
-// сколько путей получения числа Б из А, путем прибавления на с и умножения на д
-
-
-public class CarInfo {
-    public static void main(String[] args) {
-        int a = 2;
-        int b = 11;
-        int c = 1;
-        int d = 2;
-
-        int[] way = new int[b + 1];
-        way[a] = 1;
-
-        for (int i = a + 1; i <= b; i++) {
-            way[i] = i % d == 0 ? way[i - c] + way[i / d] : way[i - c];
-
-        }
-        System.out.println(way[b]);
-    }
-}
-//
+package org.example.HW05;
+// Реализовать задание и печать карты для волнового алгоритма
 //Реализация волнового алгоритма
 //
 //1. генератор карт
@@ -42,3 +22,24 @@ public class CarInfo {
 //    4.2 выходы
 //
 //5. Поиск выхода
+//import java.util.ArrayList;
+//
+//public class hw05_Task1 {
+//    public static void main(String[] args) {
+//        ArrayList<Integer> storage = new ArrayList<>();
+//        Point2D a = new Point2D(2,5);
+//        storage.add(a);
+//
+//    }
+//}
+//
+//
+//    class Point2D{
+//        public Point2D(int x, int y) {
+//            this.x = x;
+//            this.y = y;
+//        }
+//
+//        int x,y;
+//    }
+//

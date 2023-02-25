@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b357999-8f20-4e56-9c91-0f3ac44b3150" name="Changes" comment="hw4_Task1 done">
+    <list default="true" id="1b357999-8f20-4e56-9c91-0f3ac44b3150" name="Changes" comment="HW04">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW05/hw05_Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW04/hw04_Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HW04/hw04_Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CarInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CarInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,30 +51,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Java_Lessons",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tooly/Desktop/GB/Java/Java_Lessons&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tooly\Desktop\GB\Java\TTTT\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hw04_Task1">
-    <configuration name="hw03_task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW03.hw03_task1" />
+  <component name="RunManager" selected="Application.tasksForHw6">
+    <configuration name="tasksForHw2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw2" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW03.*" />
+          <option name="PATTERN" value="org.example.HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw04_Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW04.hw04_Task1" />
+    <configuration name="tasksForHw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw3" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW04.*" />
+          <option name="PATTERN" value="org.example.HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw2_Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW02.hw2_Task01" />
+    <configuration name="tasksForHw4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw4" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW02.*" />
+          <option name="PATTERN" value="org.example.HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw2_Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW02.hw2_Task03" />
+    <configuration name="tasksForHw5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw5" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW02.*" />
+          <option name="PATTERN" value="org.example.HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hw2_Task04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW02.hw2_Task04" />
+    <configuration name="tasksForHw6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw6" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW02.*" />
+          <option name="PATTERN" value="org.example.HW01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hw04_Task1" />
-        <item itemvalue="Application.hw03_task1" />
-        <item itemvalue="Application.hw2_Task04" />
-        <item itemvalue="Application.hw2_Task03" />
-        <item itemvalue="Application.hw2_Task01" />
+        <item itemvalue="Application.tasksForHw6" />
+        <item itemvalue="Application.tasksForHw5" />
+        <item itemvalue="Application.tasksForHw4" />
+        <item itemvalue="Application.tasksForHw3" />
+        <item itemvalue="Application.tasksForHw2" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677340135238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW04">
+      <created>1677341603926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677341603926</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,14 +204,15 @@
     <MESSAGE value="hw2_Task04 done" />
     <MESSAGE value="hw3_Task1 done" />
     <MESSAGE value="hw4_Task1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw4_Task1 done" />
+    <MESSAGE value="HW04" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
