@@ -19,6 +19,7 @@ public class tasksForHw5 {
         hashMapCountries.put(3, "США");
         hashMapCountries.put(4, "Япония");
         hashMapCountries.put(5, "Австралия");
+        System.out.println(hashMapCountries.get(3));
 
         System.out.println("Первое множество: ");
         hashMapCountries.forEach((k,v) -> System.out.println("[" + k + ": " + v + "]"));

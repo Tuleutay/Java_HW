@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b357999-8f20-4e56-9c91-0f3ac44b3150" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW05/getMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW05/paintMap.java" afterDir="false" />
+    <list default="true" id="1b357999-8f20-4e56-9c91-0f3ac44b3150" name="Changes" comment="HW06 init">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/SearchWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/WaveAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/jPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/paintMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HW01/tasksForHw5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HW06/programm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HW06/program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Test",
+    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Panel",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -62,7 +66,7 @@
       <recent name="C:\Users\tooly\Desktop\GB\Java\TTTT\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.getMap">
+  <component name="RunManager" selected="Application.program">
     <configuration name="getMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.HW05.getMap" />
       <module name="Java_HW" />
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tasksForHw3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.HW01.tasksForHw3" />
+    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HW06.program" />
       <module name="Java_HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.HW01.*" />
+          <option name="PATTERN" value="org.example.HW06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.program" />
+        <item itemvalue="Application.tasksForHw5" />
         <item itemvalue="Application.getMap" />
         <item itemvalue="Application.tasksForHw6" />
-        <item itemvalue="Application.tasksForHw5" />
         <item itemvalue="Application.tasksForHw4" />
-        <item itemvalue="Application.tasksForHw3" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678099573994</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW05 done">
+      <created>1678125915679</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678125915679</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1678544463496</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678544463496</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,7 +225,9 @@
     <MESSAGE value="hw4_Task1 done" />
     <MESSAGE value="HW04" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="HW05 done" />
+    <MESSAGE value="HW06 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW06 init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
